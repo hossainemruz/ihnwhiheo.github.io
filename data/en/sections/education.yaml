@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Ph.D Student in Psychological Sciences - Quantitative Methods, Measurement, and Statistics
+  icon: fa-microscope
+  timeframe: In progress
+  institution:
+    name: University of California, Merced
+    url: "https://www.ucmerced.edu/"
+- name: M.Sc. in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
+  icon: fa-graduation-cap
+  timeframe: In progress
+  institution:
+    name: Utrecht University
+    url: "https://www.uu.nl/en"
+- name: B.A. in Psychology
+  icon: fa-school
+  timeframe: August, 2019
+  institution:
+    name: Sungkyunkwan University
+    url: "https://www.skku.edu/eng/"

@@ -1,0 +1,17 @@
+# some information about you
+name: "Ihnwhi Heo"
+nickname: "Ihnwhi"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I'm"
+image: "images/author/iheopic.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  address: "5200 N. Lake Road, Merced, CA 95343"
+  email: "iheo2@ucmerced.edu"
+  
+# some summary about what you do
+summary:
+  - Psychological Methodologist/Statistician
+  - Bayesian enthusiast
+  - Love traveling and photography
+  - Ik heel erg mis Utrecht en Nederland!
