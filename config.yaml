@@ -37,8 +37,8 @@ params:
   background: "images/iheobackground.png"
   
   logo:
-    main: images/iheofavicon.png
-    inverted: images/iheofavicon.png
+    main: images/iheofavi-ma.png
+    inverted: images/iheofavi-inv.png
     #favicon: images/iheofavicon.png
 
   # GitHub repo URL of your site
