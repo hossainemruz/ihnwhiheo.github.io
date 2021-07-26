@@ -37,7 +37,7 @@ params:
   background: "images/iheobackground.png"
   
   logo:
-    #main: images/main-logo.png
+    main: images/iheofavicon.png
     inverted: images/iheofavicon.png
     #favicon: images/iheofavicon.png
 
