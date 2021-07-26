@@ -37,9 +37,9 @@ params:
   background: "images/iheobackground.png"
   
   logo:
-    main: images/iheofavi-ma.png
-    inverted: images/iheofavi-inv.png
-    favicon: images/iheofavi-ma.png
+    main: images/iheofavi-inv.png
+    inverted: images/iheofavi-ma.png
+    favicon: images/iheofavi-inv.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/ihnwhiheo/ihnwhiheo.github.io
