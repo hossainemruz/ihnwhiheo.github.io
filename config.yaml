@@ -38,8 +38,8 @@ params:
   
   logo:
     #main: images/main-logo.png
-    #inverted: images/inverted-logo.png
-    favicon: images/iheofavicon.png
+    inverted: images/iheofavicon.png
+    #favicon: images/iheofavicon.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/ihnwhiheo/ihnwhiheo.github.io
