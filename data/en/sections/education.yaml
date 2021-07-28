@@ -14,17 +14,17 @@ degrees:
   icon: fa-microscope
   timeframe: In progress
   institution:
-    name: University of California, Merced
+    name: University of California, Merced, USA
     url: "https://www.ucmerced.edu/"
 - name: M.Sc. Student in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
   icon: fa-graduation-cap
   timeframe: In progress
   institution:
-    name: Utrecht University
+    name: Utrecht University, The Netherlands
     url: "https://www.uu.nl/en"
 - name: B.A. in Psychology
   icon: fa-school
   timeframe: August, 2019
   institution:
-    name: Sungkyunkwan University
+    name: Sungkyunkwan University, South Korea
     url: "https://www.skku.edu/eng/"
