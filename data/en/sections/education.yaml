@@ -16,13 +16,13 @@ degrees:
   institution:
     name: University of California, Merced, USA
     url: "https://www.ucmerced.edu/"
-- name: M.Sc. Student in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
+- name: M.Sc. in Methodology and Statistics (Cum Laude)
   icon: fa-graduation-cap
-  timeframe: In progress
+  timeframe: July, 2021
   institution:
     name: Utrecht University, The Netherlands
     url: "https://www.uu.nl/en"
-- name: B.A. in Psychology
+- name: B.A. in Psychology (Highest Honors)
   icon: fa-school
   timeframe: August, 2019
   institution:
