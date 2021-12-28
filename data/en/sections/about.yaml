@@ -15,7 +15,7 @@ company:
   url: "https://psychology.ucmerced.edu/content/ihnwhi-heo"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/iheo2021Sep.pdf" # files directory
+resume: "files/iheo2021Dec.pdf" # files directory
 
 # a summary about you
 summary: 'I am a Ph.D. student in the [Department of Psychological Sciences](https://psychology.ucmerced.edu/) (specialization: [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative)) at the University of California, Merced. My interests touch on diverse topics such as Bayesian inference, structural equation modeling, hypothesis testing, missing/non-normal data, and metascience. In my doctoral journey, I receive co-supervision from Dr. [Sarah Depaoli](http://sarahdepaoli.com/) and Dr. [Fan Jia](https://sites.google.com/view/fjiaquant/). My goal is to develop methods that help researchers research what they want to research rigorously, based on the Bayesian framework.'
