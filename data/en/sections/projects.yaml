@@ -25,6 +25,26 @@ buttons:
 
 # your projects
 projects:
+- name: Latent Growth Curve Modeling (LGCM) in JASP
+  logo: /images/sections/projects/jasp-logo.png
+  role: Koch, Heo, & van Kesteren
+  timeline: "2022"
+  url: https://jasp-stats.org/2022/02/22/latent-growth-curve-modeling-lgcm-in-jasp/
+  # If your project is a public repo on GitHub, then provide this link. it will show star count. url: "" 
+  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: How can we model the form of change in an outcome as time passes by? This question is of importance to researchers who examine developmental, longitudinal, or consecutive measurements across multiple occasions. What solves their problems is a statistical technique called Latent Growth Curve Modeling (LGCM). This tutorial guides readers from the concept of LGCM to interpreting results with intuitive examples.
+  tags: ["tutorial", "jasp"]
+
+- name: Multiple Indicators Multiple Causes (MIMIC) model in JASP
+  logo: /images/sections/projects/jasp-logo.png
+  role: Koch, Heo, & van Kesteren
+  timeline: "2022"
+  url: https://jasp-stats.org/2022/02/01/multiple-indicators-multiple-causes-mimic-model-in-jasp/
+  # If your project is a public repo on GitHub, then provide this link. it will show star count. url: "" 
+  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Researchers often have questions about inter-relationships between observed variables (indicators) and latent variables (factors). The Multiple Indicators and Multiple Causes (MIMIC) model is one of the models to quench the thirst for such questions! The latest JASP release provides MIMIC models as part of the SEM module. This tutorial introduces the idea of MIMIC models and, with a simple example, explains how to fit and interpret them.
+  tags: ["tutorial", "jasp"]
+
 - name: R for beginners
   logo: /images/sections/projects/r-logo.png
   role: Heo, Veen, & van de Schoot
