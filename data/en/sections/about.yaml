@@ -15,9 +15,9 @@ company:
   url: "https://psychology.ucmerced.edu/content/ihnwhi-heo"
 
 # your resume. this file path should be relative to you "static" directory
-resourcelinks:
+resourceLinks:
 - title: Resume
-  url: "files/iheo2022july.pdf" # files directory
+  url: "files/iheo2022july.pdf"
 # resume: "files/iheo2022july.pdf" # files directory
 
 # a summary about you
