@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Tutorials
-  id: tutorials
+  name: Projects
+  id: projects
   enable: true
   weight: 5
   showOnNavbar: true
