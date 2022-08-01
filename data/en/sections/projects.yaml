@@ -121,10 +121,18 @@ projects:
   summary: This tutorial provides the basics of R for beginners. Our detailed instruction will start from the foundations including the installation of R and RStudio, the structure of the R screen, and loading the data. Next, we introduce basic functions for data exploration and data visualization. Also, we illustrate how to do statistical analyses such as correlation analysis, multiple linear regression, t-test, and one-way analysis of variance (ANOVA) with easy and intuitive explanations.
   tags: ["tutorial","r"]
 
-- name: Online statistics tutorials
+- name: Online statistics tutorials - Github
   logo: /images/sections/projects/github-logo.png
   role: Contributer
   timeline: "2020 - Present"
   repo: "https://github.com/Rensvandeschoot/Tutorials"
   summary: This Github repository contains code behind the online statistics tutorials located at https://www.rensvandeschoot.com/tutorials/.
-  tags: ["tutorial","repository"]
+  tags: ["repository"]
+
+- name: Online statistics tutorials - Zenodo
+  logo: /images/sections/projects/zenodo-logo.jpeg
+  role: Contributer
+  timeline: "2020 - Present"
+  repo: "https://zenodo.org/communities/stats_training"
+  summary: This Zenodo community contains citable online statistics tutorials located at https://www.rensvandeschoot.com/tutorials/.
+  tags: ["repository"]
