@@ -133,6 +133,6 @@ projects:
   logo: /images/sections/projects/zenodo-logo.jpeg
   role: Contributer
   timeline: "2020 - Present"
-  repo: "https://zenodo.org/communities/stats_training"
+  url: "https://zenodo.org/communities/stats_training"
   summary: This Zenodo community contains citable online statistics tutorials located at https://www.rensvandeschoot.com/tutorials/.
   tags: ["repository"]
