@@ -12,6 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Tutorial
+  filter: "tutorial"
 - name: R
   filter: "r"
 - name: JASP
@@ -31,7 +33,7 @@ projects:
   # If your project is a public repo on GitHub, then provide this link. it will show star count. url: "" 
   # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: How can we model the form of change in an outcome as time passes by? This question is of importance to researchers who examine developmental, longitudinal, or consecutive measurements across multiple occasions. What solves their problems is a statistical technique called Latent Growth Curve Modeling (LGCM). This tutorial guides readers from the concept of LGCM to interpreting results with intuitive examples.
-  tags: ["jasp"]
+  tags: ["tutorial","jasp"]
 
 - name: Multiple Indicators Multiple Causes (MIMIC) model in JASP
   logo: /images/sections/projects/jasp-logo.png
@@ -41,7 +43,7 @@ projects:
   # If your project is a public repo on GitHub, then provide this link. it will show star count. url: "" 
   # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Researchers often have questions about inter-relationships between observed variables (indicators) and latent variables (factors). The Multiple Indicators and Multiple Causes (MIMIC) model is one of the models to quench the thirst for such questions. This tutorial introduces the idea of MIMIC models and, with a simple example, explains how to fit and interpret them.
-  tags: ["jasp"]
+  tags: ["tutorial","jasp"]
 
 - name: WAMBS Checklist in JASP (using JAGS)
   logo: /images/sections/projects/jasp-logo.png
@@ -49,7 +51,7 @@ projects:
   timeline: "2020"
   url : https://www.rensvandeschoot.com/tutorials/wambs-checklist-in-jasp-using-jags/
   summary: This tutorial illustrates how to follow the When-to-Worry-and-How-to-Avoid-the-Misuse-of-Bayesian-Statistics (WAMBS) Checklist in JASP using JAGS. Among many analytic techniques, we focus on the regression analysis and explain the 10 points for the thorough application of Bayesian analysis. After the tutorial, we expect readers can refer to the WAMBS Checklist to sensibly apply the Bayesian statistics to answer substantive research questions.
-  tags: ["jasp"]
+  tags: ["tutorial","jasp"]
 
 - name: Advanced Bayesian regression in JASP
   logo: /images/sections/projects/jasp-logo.png
@@ -57,7 +59,7 @@ projects:
   timeline: "2020"
   url: https://www.rensvandeschoot.com/tutorials/advanced-bayesian-regression-in-jasp/
   summary: This tutorial illustrates how to interpret the more advanced output and to set different prior specifications in performing Bayesian regression analyses in JASP. We explain various options in the control panel and introduce such concepts as Bayesian model averaging, posterior model probability, prior model probability, inclusion Bayes factor, and posterior exclusion probability. After the tutorial, we expect readers can deeply comprehend the Bayesian regression and perform it to answer substantive research questions.
-  tags: ["jasp"]
+  tags: ["tutorial","jasp"]
 
 - name: JASP for Bayesian analyses with informative priors (using JAGS)
   logo: /images/sections/projects/jasp-logo.png
@@ -66,7 +68,7 @@ projects:
   url: "https://www.rensvandeschoot.com/tutorials/jasp-for-bayesian-analyses-with-informative-priors-using-jags/"
   #url: ""
   summary: This tutorial illustrates how to perform Bayesian analyses in JASP with informative priors using JAGS. Among many analytic options, we focus on the regression analysis and explain the effects of different prior specifications on regression coefficients. We also present the Shiny App designed to help users to define the prior distributions using the example in this tutorial. After the tutorial, we expect readers can understand how to incorporate prior knowledge in conducting Bayesian regression analysis to answer substantive research questions.
-  tags: ["jasp"]
+  tags: ["tutorial","jasp"]
 
 - name: JASP for Bayesian analyses with default priors
   logo: /images/sections/projects/jasp-logo.png
@@ -74,7 +76,7 @@ projects:
   timeline: "2020"
   url: "https://www.rensvandeschoot.com/tutorials/jasp-for-bayesian-analyses-with-default-priors/"
   summary: This tutorial illustrates how to perform Bayesian analyses in JASP with default priors for starters. We deal with basic procedures to do Bayesian statistics and explain ways to interpret core results. In each analytic option, a brief comparison between Bayesian and frequentist statistics is presented. After the tutorial, we expect readers can perform correlation analysis, multiple linear regression, t-test, and one-way analysis of variance, all from a Bayesian perspective, and understand the logic of Bayesian statistics.
-  tags: ["jasp"]
+  tags: ["tutorial","jasp"]
 
 - name: JASP for beginners
   logo: /images/sections/projects/jasp-logo.png
@@ -83,7 +85,7 @@ projects:
   url: https://www.rensvandeschoot.com/tutorials/jasp-for-beginners/
   #url: ""
   summary: This tutorial introduces the fundamentals of JASP for starters. We guide you from installation to interpretation of results via data loading and data management. After the tutorial, we expect readers can easily perform correlation, multiple linear regression, t-test, and one-way analysis of variance and draw conclusions from outputs in JASP.
-  tags: ["jasp"]
+  tags: ["tutorial","jasp"]
 
 - name: Advanced Bayesian regression in jamovi
   logo: /images/sections/projects/jamovi-logo.jpeg
@@ -91,7 +93,7 @@ projects:
   timeline: "2020"
   url: https://www.rensvandeschoot.com/tutorials/advanced-bayesian-regression-in-jamovi/
   summary: This tutorial explains how to interpret the more advanced output and to set different prior specifications in conducting Bayesian regression analyses in jamovi. We guide you to various options in the options panel and introduce concepts including Bayesian model averaging, prior model probability, posterior model probability, inclusion Bayes factor, and posterior exclusion probability. After the tutorial, we expect readers can deeply understand the Bayesian regression and perform it to answer substantive research questions.
-  tags: ["jamovi"]
+  tags: ["tutorial","jamovi"]
 
 - name: jamovi for Bayesian analyses with default priors
   logo: /images/sections/projects/jamovi-logo.jpeg
@@ -99,7 +101,7 @@ projects:
   timeline: "2020"
   url: https://www.rensvandeschoot.com/tutorials/jamovi-for-bayesian-analyses-with-default-priors/
   summary: This tutorial explains how to conduct Bayesian analyses in jamovi with default priors for starters. With step-by-step illustrations, we perform and interpret core results of correlation analysis, multiple linear regression, t-test, and one-way analysis of variance, all from a Bayesian perspective. To enhance readers’ understanding, a brief comparison between the Bayesian and frequentist approach is provided in each analytic option. After the tutorial, we expect readers can perform basic Bayesian analyses and distinguish its approach from the frequentist approach.
-  tags: ["jamovi"]
+  tags: ["tutorial","jamovi"]
 
 - name: jamovi for beginners
   logo: /images/sections/projects/jamovi-logo.jpeg
@@ -107,7 +109,7 @@ projects:
   timeline: "2020"
   url: https://www.rensvandeschoot.com/tutorials/jamovi-for-beginners/
   summary: This tutorial introduces the basics of jamovi for beginners. Starting from jamovi installation, we explain the screen structure of jamovi, how to load a dataset, and how to explore and visualize data. Readers will further learn ways to perform such statistical analyses as correlation analysis, multiple linear regression, t-test, and one-way analysis of variance, all from a frequentist viewpoint. Given the integrative power between jamovi and R, one section is designed to help readers to make use of the best of both jamovi and R.
-  tags: ["jamovi"]
+  tags: ["tutorial","jamovi"]
 
 - name: R for beginners
   logo: /images/sections/projects/r-logo.png
@@ -117,7 +119,7 @@ projects:
   # If your project is a public repo on GitHub, then provide this link. it will show star count. url: "" 
   # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: This tutorial provides the basics of R for beginners. Our detailed instruction will start from the foundations including the installation of R and RStudio, the structure of the R screen, and loading the data. Next, we introduce basic functions for data exploration and data visualization. Also, we illustrate how to do statistical analyses such as correlation analysis, multiple linear regression, t-test, and one-way analysis of variance (ANOVA) with easy and intuitive explanations.
-  tags: ["r"]
+  tags: ["tutorial","r"]
 
 - name: Online statistics tutorials
   logo: /images/sections/projects/github-logo.png
@@ -125,4 +127,4 @@ projects:
   timeline: "2020 - Present"
   repo: "https://github.com/Rensvandeschoot/Tutorials"
   summary: This Github repository contains code behind the online statistics tutorials located at https://www.rensvandeschoot.com/tutorials/.
-  tags: ["repository"]
+  tags: ["tutorial","repository"]
