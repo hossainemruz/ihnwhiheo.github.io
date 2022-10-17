@@ -1,0 +1,51 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: "Peer-reviewed Articles"
+  filter: "all"
+- name: "Bayesian Inference"
+  filter: "bayes"
+- name: "Structural Equation Modeling"
+  filter: "sem"
+- name: "Longitudinal Data Analysis"
+  filter: "longituidnal"
+- name: "Missing Data Analysis"
+  filter: "missing"
+- name: "Item Response Theory"
+  filter: "irt"
+- name: "Diagnostic Classification Modeling"
+  filter: "dcm"
+
+# your publications
+publications:
+- title: Applying negative binomial distribution in diagnostic classication models for analyzing count data
+  publishedIn:
+    name: Applied Psychological Measurement
+    date: 6 September 2022
+    url: https://journals.sagepub.com/home/APM
+  authors:
+  - name: Ren Liu
+    url: 
+  - name: Ihnwhi Heo
+    url: 
+  - name: Haiyan Liu
+    url: 
+  - name: Dexin Shi
+    url:
+  - name: Zhehan Jiang
+    url:
+  paper:
+    summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
+    url: https://www.doi.org/10.1177/01466216221124604
+  categories: ["bayes", "irt", "dcm"]
+  tags: ["Bayesian Inference", "Item Response Theory", "Diagnostic Classification Modeling"]
+
