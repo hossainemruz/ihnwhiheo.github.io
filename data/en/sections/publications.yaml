@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Publications
+  name: Articles
   id: publications
   enable: true
   weight: 3
@@ -10,19 +10,15 @@ section:
 
 # filter buttons
 buttons:
-- name: "Peer-reviewed Articles"
+- name: All
   filter: "all"
-- name: "Bayesian Inference"
+- name: Bayesian
   filter: "bayes"
-- name: "Structural Equation Modeling"
+- name: SEM
   filter: "sem"
-- name: "Longitudinal Data Analysis"
-  filter: "longituidnal"
-- name: "Missing Data Analysis"
-  filter: "missing"
-- name: "Item Response Theory"
+- name: IRT
   filter: "irt"
-- name: "Diagnostic Classification Modeling"
+- name: DCM
   filter: "dcm"
 
 # your publications
@@ -40,12 +36,12 @@ publications:
   - name: Liu, H.
     url: https://sites.google.com/view/ucmhaiyanliu
   - name: Shi, D.
-    url: https://sc.edu/study/colleges_schools/artsandsciences/psychology/our_people/directory/shi_dexin.php
+    url: https://scholar.google.com/citations?user=wx8JYQoAAAAJ&hl=en&oi=ao
   - name: Jiang, Z.
     url: https://scholar.google.com/citations?user=7wMF9NAAAAAJ&hl=en&oi=sra
   paper:
     summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
     url: https://www.doi.org/10.1177/01466216221124604
   categories: ["bayes", "irt", "dcm"]
-  tags: ["Bayesian Inference", "Item Response Theory", "Diagnostic Classification Modeling"]
+  tags: ["bayes", "irt", "dcm"]
 
