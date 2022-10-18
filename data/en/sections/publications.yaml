@@ -13,13 +13,13 @@ buttons:
 - name: All
   filter: "all"
 - name: Bayesian
-  filter: "bayes"
+  filter: "Bayesian Inference"
 - name: SEM
-  filter: "sem"
+  filter: "Structural Equation Modeling"
 - name: IRT
-  filter: "irt"
+  filter: "Item Response Theory"
 - name: DCM
-  filter: "dcm"
+  filter: "Diagnostic Classification Modeling"
 
 # your publications
 publications:
@@ -42,6 +42,6 @@ publications:
   paper:
     summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
     url: https://www.doi.org/10.1177/01466216221124604
-  categories: ["bayes", "irt", "dcm"]
-  tags: ["bayes", "irt", "dcm"]
+  # categories: ["bayes", "irt", "dcm"]
+  tags: ["Bayesian Inference", "Item Response Theory", "Diagnostic Classification Modeling"]
 
