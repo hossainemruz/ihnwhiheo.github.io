@@ -27,9 +27,9 @@ buttons:
 publications:
 - title: Detecting model misspecification in Bayesian piecewise growth models
   publishedIn:
-    name: Structural Equation Modeling A Multidisciplinary Journal
+    name: Structural Equation Modeling: A Multidisciplinary Journal
     date: in press
-    url: 
+    url: https://www.tandfonline.com/journals/hsem20
   authors:
   - name: Depaoli, S.
     url: http://sarahdepaoli.com/
@@ -40,8 +40,8 @@ publications:
   paper:
     summary: Bayesian estimation has become increasingly more popular with piecewise growth models because it can aid in accurately modeling nonlinear change over time. Recently, new Bayesian approximate fit indices (BRMSEA, BCFI, and BTLI) have been introduced as tools for detecting model (mis)fit. We compare these indices to the posterior predictive p-value (PPP), and also examine the Bayesian information criterion (BIC) and the deviance information criterion (DIC), to identify optimal methods for detecting model misspecification in piecewise growth models. Findings indicated that the Bayesian approximate fit indices are not as reliable as the PPP for detecting misspecification. However, these indices appear to be viable model selection tools rather than measures of fit. We conclude with recommendations regarding when researchers should be using each of the indices in practice.
     url: 
-  categories: ["Bayesian Inference", "Longitudinal Data Analysis", "Structural Equation Modeling"]
-  tags: ["Bayesian Inference", "Longitudinal Data Analysis", "Structural Equation Modeling"]
+  categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
+  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
 
 - title: Applying negative binomial distribution in diagnostic classication models for analyzing count data
   publishedIn:
