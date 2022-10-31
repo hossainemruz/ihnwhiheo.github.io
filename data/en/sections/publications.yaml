@@ -43,7 +43,6 @@ publications:
   categories: ["Bayesian Inference", "Longitudinal Data Analysis", "Structural Equation Modeling"]
   tags: ["Bayesian Inference", "Longitudinal Data Analysis", "Structural Equation Modeling"]
 
-publications:
 - title: Applying negative binomial distribution in diagnostic classication models for analyzing count data
   publishedIn:
     name: Applied Psychological Measurement
