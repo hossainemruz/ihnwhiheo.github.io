@@ -39,14 +39,14 @@ publications:
     url: http://ihnwhiheo.github.io/
   paper:
     summary: Bayesian estimation has become increasingly more popular with piecewise growth models because it can aid in accurately modeling nonlinear change over time. Recently, new Bayesian approximate fit indices (BRMSEA, BCFI, and BTLI) have been introduced as tools for detecting model (mis)fit. We compare these indices to the posterior predictive p-value (PPP), and also examine the Bayesian information criterion (BIC) and the deviance information criterion (DIC), to identify optimal methods for detecting model misspecification in piecewise growth models. Findings indicated that the Bayesian approximate fit indices are not as reliable as the PPP for detecting misspecification. However, these indices appear to be viable model selection tools rather than measures of fit. We conclude with recommendations regarding when researchers should be using each of the indices in practice.
-    url: 
+    url: https://doi.org/10.1080/10705511.2022.2144865
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
   tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
 
 - title: Applying negative binomial distribution in diagnostic classication models for analyzing count data
   publishedIn:
     name: Applied Psychological Measurement
-    date: Advance Online Publication in 2022
+    date: '2023'
     url: https://journals.sagepub.com/home/APM
   authors:
   - name: Liu, R.
