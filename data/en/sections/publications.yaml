@@ -28,7 +28,7 @@ publications:
 - title: "Review of Longitudinal Structural Equation Modeling with Mplus: A Latent State-Trait Perspective"
   publishedIn:
     name: Psychometrika
-    date: In Press
+    date: 2022 (Online)
     url: https://www.springer.com/journal/11336
   authors:
   - name: Heo, I.
@@ -39,7 +39,7 @@ publications:
     url: http://sarahdepaoli.com/
   paper:
     summary: "The importance of longitudinal research to the social and behavioral sciences is difficult to overstate. A large body of research implements longitudinal designs and analyzes dynamic, repeated measures data to answer a broad range of research questions surrounding growth or change over time. A key decision involved in longitudinal research is the choice of appropriate statistical models. Christian Geiser’s new book—Longitudinal Structural Equation Modeling with Mplus: A Latent State-Trait Perspective—focuses on the implementation of longitudinal statistical models with latent variables and their application in Mplus. The book specifically introduces and discusses longitudinal structural equation models in the context of latent state-trait (LST) theory. By couching LST theory into a longitudinal structural equation modeling framework, this book describes how researchers can reflect the change of individual states or traits under situational influences. Such a feature makes the book a distinctive resource that stands out in comparison with other longitudinal modeling books."
-    url: 
+    url: https://doi.org/10.1007/s11336-022-09897-z
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
   tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
 
