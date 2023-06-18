@@ -25,6 +25,24 @@ buttons:
 
 # your publications
 publications:
+- title: Detecting model misspecification in Bayesian piecewise growth models
+  publishedIn:
+    name: "Structural Equation Modeling: A Multidisciplinary Journal"
+    date: '2023'
+    url: https://www.tandfonline.com/journals/hsem20
+  authors:
+  - name: Depaoli, S.
+    url: http://sarahdepaoli.com/
+  - name: Jia, F.
+    url: https://sites.google.com/view/fjiaquant
+  - name: Heo, I.
+    url: http://ihnwhiheo.github.io/
+  paper:
+    summary: Bayesian estimation has become increasingly more popular with piecewise growth models because it can aid in accurately modeling nonlinear change over time. Recently, new Bayesian approximate fit indices (BRMSEA, BCFI, and BTLI) have been introduced as tools for detecting model (mis)fit. We compare these indices to the posterior predictive p-value (PPP), and also examine the Bayesian information criterion (BIC) and the deviance information criterion (DIC), to identify optimal methods for detecting model misspecification in piecewise growth models. Findings indicated that the Bayesian approximate fit indices are not as reliable as the PPP for detecting misspecification. However, these indices appear to be viable model selection tools rather than measures of fit. We conclude with recommendations regarding when researchers should be using each of the indices in practice.
+    url: https://doi.org/10.1080/10705511.2022.2144865
+  categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
+  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
+
 - title: "Review of Longitudinal structural equation modeling with Mplus: A latent state-trait perspective"
   publishedIn:
     name: Psychometrika
@@ -40,24 +58,6 @@ publications:
   paper:
     summary: "The importance of longitudinal research to the social and behavioral sciences is difficult to overstate. A large body of research implements longitudinal designs and analyzes dynamic, repeated measures data to answer a broad range of research questions surrounding growth or change over time. A key decision involved in longitudinal research is the choice of appropriate statistical models. Christian Geiser’s new book—Longitudinal Structural Equation Modeling with Mplus: A Latent State-Trait Perspective—focuses on the implementation of longitudinal statistical models with latent variables and their application in Mplus. The book specifically introduces and discusses longitudinal structural equation models in the context of latent state-trait (LST) theory. By couching LST theory into a longitudinal structural equation modeling framework, this book describes how researchers can reflect the change of individual states or traits under situational influences. Such a feature makes the book a distinctive resource that stands out in comparison with other longitudinal modeling books."
     url: https://doi.org/10.1007/s11336-022-09897-z
-  categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
-  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
-
-- title: Detecting model misspecification in Bayesian piecewise growth models
-  publishedIn:
-    name: "Structural Equation Modeling: A Multidisciplinary Journal"
-    date: 2022 (Online)
-    url: https://www.tandfonline.com/journals/hsem20
-  authors:
-  - name: Depaoli, S.
-    url: http://sarahdepaoli.com/
-  - name: Jia, F.
-    url: https://sites.google.com/view/fjiaquant
-  - name: Heo, I.
-    url: http://ihnwhiheo.github.io/
-  paper:
-    summary: Bayesian estimation has become increasingly more popular with piecewise growth models because it can aid in accurately modeling nonlinear change over time. Recently, new Bayesian approximate fit indices (BRMSEA, BCFI, and BTLI) have been introduced as tools for detecting model (mis)fit. We compare these indices to the posterior predictive p-value (PPP), and also examine the Bayesian information criterion (BIC) and the deviance information criterion (DIC), to identify optimal methods for detecting model misspecification in piecewise growth models. Findings indicated that the Bayesian approximate fit indices are not as reliable as the PPP for detecting misspecification. However, these indices appear to be viable model selection tools rather than measures of fit. We conclude with recommendations regarding when researchers should be using each of the indices in practice.
-    url: https://doi.org/10.1080/10705511.2022.2144865
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
   tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
 
