@@ -28,7 +28,7 @@ publications:
 - title: Performance of model fit and selection indices for Bayesian piecewise growth modeling with missing data
   publishedIn:
     name: "Structural Equation Modeling: A Multidisciplinary Journal"
-    date: 'in press'
+    date: '2023 (Online)'
     url: https://www.tandfonline.com/journals/hsem20
   authors:
   - name: Heo, I.
@@ -39,7 +39,7 @@ publications:
     url: http://sarahdepaoli.com/
   paper:
     summary: The Bayesian piecewise growth model (PGM) is a useful class of models for analyzing nonlinear change processes that consist of distinct growth phases. In applications of Bayesian PGMs, it is important to accurately capture growth trajectories and carefully consider knot placements. The presence of missing data is another challenge researchers commonly encounter. To address these issues, one could use model fit and selection indices to detect misspecified Bayesian PGMs, and should give care to the potential impact of missing data on model evaluation. Here we conducted a simulation study to examine the impact of model misspecification and missing data on the performance of Bayesian model fit and selection indices (PPP-value, BCFI, BTLI, BRMSEA, BIC, and DIC), with an additional focus on prior sensitivity. Results indicated that (a) increasing the degree of model misspecification and amount of missing data aggravated the performance of indices in detecting misfit, and (b) different prior specifications had negligible impact on model assessment. We provide practical guidelines for researchers to facilitate effective implementation of Bayesian PGMs.
-    url: 
+    url: https://doi.org/10.1080/10705511.2023.2264514
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
   tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
 
