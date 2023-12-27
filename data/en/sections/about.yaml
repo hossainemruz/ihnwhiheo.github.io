@@ -17,7 +17,7 @@ company:
 # your resume. this file path should be relative to you "static" directory
 resourceLinks:
 - title: Curriculum Vitae
-  url: "files/iheo2023november.pdf"
+  url: "files/iheo2023december.pdf"
 
 # a summary about you
 summary: 'I am a Ph.D. student in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. My interests touch on Bayesian inference, structural equation modeling, longitudinal modeling, and missing data analysis. I am also interested in such topics as hypothesis testing and metascience. Under the mentorship of Dr. [Sarah Depaoli](http://sarahdepaoli.com/) and Dr. [Fan Jia](https://sites.google.com/view/fjiaquant/), my goal is to develop and evaluate Bayesian methods for researchers.'
