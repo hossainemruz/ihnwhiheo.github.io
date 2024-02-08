@@ -18,10 +18,8 @@ buttons:
   filter: "Structural Equation Modeling"
 - name: Longitudinal
   filter: "Longitudinal Data Analysis"
-- name: IRT
-  filter: "Item Response Theory"
-- name: DCM
-  filter: "Diagnostic Classification Modeling"
+- name: Missing
+  filter: "Missing Data Analysis"
 
 # your publications
 publications:
@@ -41,7 +39,7 @@ publications:
     summary: The Bayesian piecewise growth model (PGM) is a useful class of models for analyzing nonlinear change processes that consist of distinct growth phases. In applications of Bayesian PGMs, it is important to accurately capture growth trajectories and carefully consider knot placements. The presence of missing data is another challenge researchers commonly encounter. To address these issues, one could use model fit and selection indices to detect misspecified Bayesian PGMs, and should give care to the potential impact of missing data on model evaluation. Here we conducted a simulation study to examine the impact of model misspecification and missing data on the performance of Bayesian model fit and selection indices (PPP-value, BCFI, BTLI, BRMSEA, BIC, and DIC), with an additional focus on prior sensitivity. Results indicated that (a) increasing the degree of model misspecification and amount of missing data aggravated the performance of indices in detecting misfit, and (b) different prior specifications had negligible impact on model assessment. We provide practical guidelines for researchers to facilitate effective implementation of Bayesian PGMs.
     url: https://doi.org/10.1080/10705511.2023.2264514
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
-  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
+  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Missing Data Analysis"]
 
 - title: Detecting model misspecification in Bayesian piecewise growth models
   publishedIn:
@@ -77,7 +75,7 @@ publications:
     summary: "The importance of longitudinal research to the social and behavioral sciences is difficult to overstate. A large body of research implements longitudinal designs and analyzes dynamic, repeated measures data to answer a broad range of research questions surrounding growth or change over time. A key decision involved in longitudinal research is the choice of appropriate statistical models. Christian Geiser’s new book—Longitudinal Structural Equation Modeling with Mplus: A Latent State-Trait Perspective—focuses on the implementation of longitudinal statistical models with latent variables and their application in Mplus. The book specifically introduces and discusses longitudinal structural equation models in the context of latent state-trait (LST) theory. By couching LST theory into a longitudinal structural equation modeling framework, this book describes how researchers can reflect the change of individual states or traits under situational influences. Such a feature makes the book a distinctive resource that stands out in comparison with other longitudinal modeling books."
     url: https://doi.org/10.1007/s11336-022-09897-z
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
-  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
+  tags: ["Structural Equation Modeling", "Longitudinal Data Analysis"]
 
 - title: Applying negative binomial distribution in diagnostic classication models for analyzing count data
   publishedIn:
@@ -99,5 +97,5 @@ publications:
     summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
     url: https://www.doi.org/10.1177/01466216221124604
   categories: ["Bayesian Inference", "Item Response Theory", "Diagnostic Classification Modeling"]
-  tags: ["Bayesian Inference", "Item Response Theory", "Diagnostic Classification Modeling"]
+  tags: ["Bayesian Inference"]
 
