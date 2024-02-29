@@ -12,7 +12,7 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Bayesian
+- name: Bayes
   filter: "Bayesian Inference"
 - name: SEM
   filter: "Structural Equation Modeling"
@@ -38,7 +38,7 @@ publications:
   paper:
     summary: The Bayesian piecewise growth model (PGM) is a useful class of models for analyzing nonlinear change processes that consist of distinct growth phases. In applications of Bayesian PGMs, it is important to accurately capture growth trajectories and carefully consider knot placements. The presence of missing data is another challenge researchers commonly encounter. To address these issues, one could use model fit and selection indices to detect misspecified Bayesian PGMs, and should give care to the potential impact of missing data on model evaluation. Here we conducted a simulation study to examine the impact of model misspecification and missing data on the performance of Bayesian model fit and selection indices (PPP-value, BCFI, BTLI, BRMSEA, BIC, and DIC), with an additional focus on prior sensitivity. Results indicated that (a) increasing the degree of model misspecification and amount of missing data aggravated the performance of indices in detecting misfit, and (b) different prior specifications had negligible impact on model assessment. We provide practical guidelines for researchers to facilitate effective implementation of Bayesian PGMs.
     url: https://doi.org/10.1080/10705511.2023.2264514
-  categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
+  categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Missing Data Analysis"]
   tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Missing Data Analysis"]
 
 - title: Detecting model misspecification in Bayesian piecewise growth models
@@ -96,6 +96,6 @@ publications:
   paper:
     summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
     url: https://www.doi.org/10.1177/01466216221124604
-  categories: ["Bayesian Inference", "Item Response Theory", "Diagnostic Classification Modeling"]
+  categories: ["Bayesian Inference"]
   tags: ["Bayesian Inference"]
 
