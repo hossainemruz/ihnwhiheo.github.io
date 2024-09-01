@@ -37,7 +37,7 @@ publications:
     url: http://sarahdepaoli.com/
   paper:
     summary: The Bayesian piecewise growth model (PGM) is a useful class of models for analyzing nonlinear change processes that consist of distinct growth phases. In applications of Bayesian PGMs, it is important to accurately capture growth trajectories and carefully consider knot placements. The presence of missing data is another challenge researchers commonly encounter. To address these issues, one could use model fit and selection indices to detect misspecified Bayesian PGMs, and should give care to the potential impact of missing data on model evaluation. Here we conducted a simulation study to examine the impact of model misspecification and missing data on the performance of Bayesian model fit and selection indices (PPP-value, BCFI, BTLI, BRMSEA, BIC, and DIC), with an additional focus on prior sensitivity. Results indicated that (a) increasing the degree of model misspecification and amount of missing data aggravated the performance of indices in detecting misfit, and (b) different prior specifications had negligible impact on model assessment. We provide practical guidelines for researchers to facilitate effective implementation of Bayesian PGMs.
-    url: https://doi.org/10.1080/10705511.2023.2264514
+    url: "files/papers/Heo2024_performance.pdf"
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Missing Data Analysis"]
   tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Missing Data Analysis"]
 
@@ -55,7 +55,7 @@ publications:
     url: http://ihnwhiheo.github.io/
   paper:
     summary: Bayesian estimation has become increasingly more popular with piecewise growth models because it can aid in accurately modeling nonlinear change over time. Recently, new Bayesian approximate fit indices (BRMSEA, BCFI, and BTLI) have been introduced as tools for detecting model (mis)fit. We compare these indices to the posterior predictive p-value (PPP), and also examine the Bayesian information criterion (BIC) and the deviance information criterion (DIC), to identify optimal methods for detecting model misspecification in piecewise growth models. Findings indicated that the Bayesian approximate fit indices are not as reliable as the PPP for detecting misspecification. However, these indices appear to be viable model selection tools rather than measures of fit. We conclude with recommendations regarding when researchers should be using each of the indices in practice.
-    url: https://doi.org/10.1080/10705511.2022.2144865
+    url: "files/papers/Depaoli2023_detecting.pdf"
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
   tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
 
@@ -73,7 +73,7 @@ publications:
     url: http://sarahdepaoli.com/
   paper:
     summary: "The importance of longitudinal research to the social and behavioral sciences is difficult to overstate. A large body of research implements longitudinal designs and analyzes dynamic, repeated measures data to answer a broad range of research questions surrounding growth or change over time. A key decision involved in longitudinal research is the choice of appropriate statistical models. Christian Geiser’s new book—Longitudinal Structural Equation Modeling with Mplus: A Latent State-Trait Perspective—focuses on the implementation of longitudinal statistical models with latent variables and their application in Mplus. The book specifically introduces and discusses longitudinal structural equation models in the context of latent state-trait (LST) theory. By couching LST theory into a longitudinal structural equation modeling framework, this book describes how researchers can reflect the change of individual states or traits under situational influences. Such a feature makes the book a distinctive resource that stands out in comparison with other longitudinal modeling books."
-    url: https://doi.org/10.1007/s11336-022-09897-z
+    url: "files/papers/Heo2023_book.pdf"
   categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis"]
   tags: ["Structural Equation Modeling", "Longitudinal Data Analysis"]
 
@@ -95,7 +95,7 @@ publications:
     url: https://scholar.google.com/citations?user=7wMF9NAAAAAJ&hl=en&oi=sra
   paper:
     summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
-    url: https://www.doi.org/10.1177/01466216221124604
+    url: "files/papers/Liu2023_applying.pdf"
   categories: ["Bayesian Inference"]
   tags: ["Bayesian Inference"]
 
