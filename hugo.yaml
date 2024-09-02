@@ -39,12 +39,13 @@ outputs:
   - RSS
   - JSON
 
-# Enable Google Analytics
-googleAnalytics: G-FHK2YX1CJQ
-# googleAnalytics: 357254636
-
 # Enable global emoji support
 enableEmoji: true
+
+# Enable Google Analytics
+services:
+  googleAnalytics:
+    id: G-FHK2YX1CJQ
 
 # Site parameters
 params:
@@ -66,7 +67,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
