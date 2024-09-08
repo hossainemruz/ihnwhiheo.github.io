@@ -16,15 +16,18 @@ degrees:
   institution:
     name: University of California, Merced
     url: "https://www.ucmerced.edu/"
+    logo: "ucm-logo.png"
 - name: M.Sc. in Methodology and Statistics (Cum Laude)
   icon: fa-graduation-cap
   timeframe: July, 2021
   institution:
     name: Utrecht University
     url: "https://www.uu.nl/en"
+    logo: "uu-logo.png"
 - name: B.A. in Psychology (Highest Honors)
   icon: fa-school
   timeframe: August, 2019
   institution:
     name: Sungkyunkwan University
+    logo: "skku-logo.png"
     url: "https://www.skku.edu/eng/"
