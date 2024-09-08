@@ -20,9 +20,31 @@ buttons:
   filter: "Longitudinal Data Analysis"
 - name: Missing
   filter: "Missing Data Analysis"
+- name: Mixture
+  filter: "Mixture Modeling"
 
 # your publications
 publications:
+- title: "Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology"
+  publishedIn:
+    name: "Journal of School Psychology"
+    date: '2024 (in press)'
+    url: https://www.sciencedirect.com/journal/journal-of-school-psychology
+  authors:
+  - name: Heo, I.
+    url: http://ihnwhiheo.github.io/
+  - name: Depaoli, S.
+    url: http://sarahdepaoli.com/
+  - name: Jia, F.
+    url: https://sites.google.com/view/fjiaquant
+  - name: Liu, H.
+    url: https://sites.google.com/view/ucmhaiyanliu
+  paper:
+    summary: Bayesian piecewise growth mixture models (PGMMs) are a powerful statistical tool based on the Bayesian framework for modeling nonlinear, phasic developmental trajectories of heterogeneous subpopulations over time. Although Bayesian PGMMs can benefit school psychology research, their empirical applications within the field remain limited. This article introduces Bayesian PGMMs, addresses three key methodological considerations (i.e., class separation, class enumeration, and prior sensitivity), and provides practical guidance for their implementation. By analyzing a dataset from the Early Childhood Longitudinal Study-Kindergarten Cohort, we illustrate the application of Bayesian PGMMs to model piecewise growth trajectories of mathematics achievement across latent classes. We underscore the importance of considering both statistical criteria and substantive theories when making decisions in analytic procedures. Additionally, we discuss the importance of transparent reporting of the results and provide caveats for researchers in the field to promote the wide usage of Bayesian PGMMs.
+    url: https://doi.org/10.1016/j.jsp.2024.101366
+  categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Mixture Modeling"]
+  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Mixture Modeling"]
+
 - title: Performance of model fit and selection indices for Bayesian piecewise growth modeling with missing data
   publishedIn:
     name: "Structural Equation Modeling: A Multidisciplinary Journal"
@@ -95,7 +117,7 @@ publications:
     url: https://scholar.google.com/citations?user=7wMF9NAAAAAJ&hl=en&oi=sra
   paper:
     summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
-    url: https://doi.org/10.1177/01466216221124604
+    url: "files/papers/Liu2023_applying.pdf"
   categories: ["Bayesian Inference"]
   tags: ["Bayesian Inference"]
 
