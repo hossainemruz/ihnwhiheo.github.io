@@ -12,11 +12,16 @@ section:
 degrees:
 - name: Ph.D. Student in Quantitative Methods, Measurement, and Statistics
   icon: fa-microscope
-  timeframe: In progress
+  timeframe: May, 2026 (Expected)
   institution:
     name: University of California, Merced
     url: "https://www.ucmerced.edu/"
     logo: "images/ucm-logo.png"
+  custonSections:
+    - name: Dissertation
+      content: TBD
+    - name: Advisors
+      content: Dr. Sarah Depaoli & Dr. Fan Jia
 - name: M.Sc. in Methodology and Statistics (Cum Laude)
   icon: fa-graduation-cap
   timeframe: July, 2021
