@@ -17,9 +17,9 @@ degrees:
     name: University of California, Merced
     url: "https://www.ucmerced.edu/"
     logo: "images/ucm-logo.png"
-  custonSections:
+  customSections:
     - name: Dissertation
-      content: TBD
+      content: "Advanced methods for implementation of Bayesian growth mixture modeling"
     - name: Advisors
       content: Dr. Sarah Depaoli & Dr. Fan Jia
 - name: M.Sc. in Methodology and Statistics (Cum Laude)
@@ -29,6 +29,11 @@ degrees:
     name: Utrecht University
     url: "https://www.uu.nl/en"
     logo: "images/uu-logo.png"
+  customSections:
+    - name: Thesis
+      content: "All models are uncertain, but averaging is useful: Bayesian multi-model inference in structural equation models with bridge sampling"
+    - name: Advisor
+      content: Prof. Eric-Jan Wagenmakers
 - name: B.A. in Psychology (Highest Honors)
   icon: fa-school
   timeframe: August, 2019

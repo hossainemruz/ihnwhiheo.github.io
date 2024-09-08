@@ -76,3 +76,9 @@ params:
     enable: true
     newsletter:
       enable: false
+
+# Black theme
+params:
+  features:
+    darkMode:
+      enable: true
