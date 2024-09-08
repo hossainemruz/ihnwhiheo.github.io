@@ -31,7 +31,7 @@ degrees:
     - name: Thesis
       content: "All models are uncertain, but averaging is useful: Bayesian multi-model inference in structural equation models with bridge sampling"
     - name: Supervisor
-      content: prof. dr. Eric-Jan Wagenmakers
+      content: prof. dr. Eric-Jan Wagenmakers (University of Amsterdam)
 - name: B.A. in Psychology (Highest Honors)
   icon: fa-school
   timeframe: August, 2019
