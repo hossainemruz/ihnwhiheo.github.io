@@ -25,19 +25,36 @@ buttons:
 
 # your publications
 publications:
+- title: 'Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown"'
+  publishedIn:
+    name: "Bayesian Analysis"
+    date: 'in press'
+    url: https://projecteuclid.org/journals/bayesian-analysis
+  - name: Ihnwhi Heo
+    url: http://ihnwhiheo.github.io/
+  - name: Julius Pfadt
+    url: https://juliuspfadt.github.io/
+  - name: Eric-Jan Wagenmakers
+    url: https://www.ejwagenmakers.com/
+  paper:
+    summary: In this contributed discussion, we point out avenues for expanding upon the ideas of Frühwirth-Schnatter et al. (2024). The methods proposed by the authors implicitly as- sume the homogeneity of the population of interest. Put differently, the estimated factor structure is assumed to apply uniformly across the entire population. However, this as- sumption often needs to be relaxed due to the inherent heterogeneity in the population. One approach to account for population heterogeneity and consider differences between qualitatively distinct subpopulations—termed latent classes—is the mixture modeling framework (Frühwirth-Schnatter, 2010; McLachlan and Peel, 2000). With this consid- eration in mind, we suggest that an interesting direction is the incorporation of the mixture modeling framework to induce sparsity across different latent classes.
+    url: 
+  categories: ["Bayesian Inference", "Structural Equation Modeling", "Mixture Modeling"]
+  tags: ["Bayesian Inference", "Structural Equation Modeling", "Mixture Modeling"]
+
 - title: "Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology"
   publishedIn:
     name: "Journal of School Psychology"
     date: '2024'
     url: https://www.sciencedirect.com/journal/journal-of-school-psychology
   authors:
-  - name: Heo, I.
+  - name: Ihnwhi Heo
     url: http://ihnwhiheo.github.io/
-  - name: Depaoli, S.
+  - name: Sarah Depaoli
     url: http://sarahdepaoli.com/
-  - name: Jia, F.
+  - name: Fan Jia
     url: https://sites.google.com/view/fjiaquant
-  - name: Liu, H.
+  - name: Haiyan Liu
     url: https://sites.google.com/view/ucmhaiyanliu
   paper:
     summary: Bayesian piecewise growth mixture models (PGMMs) are a powerful statistical tool based on the Bayesian framework for modeling nonlinear, phasic developmental trajectories of heterogeneous subpopulations over time. Although Bayesian PGMMs can benefit school psychology research, their empirical applications within the field remain limited. This article introduces Bayesian PGMMs, addresses three key methodological considerations (i.e., class separation, class enumeration, and prior sensitivity), and provides practical guidance for their implementation. By analyzing a dataset from the Early Childhood Longitudinal Study-Kindergarten Cohort, we illustrate the application of Bayesian PGMMs to model piecewise growth trajectories of mathematics achievement across latent classes. We underscore the importance of considering both statistical criteria and substantive theories when making decisions in analytic procedures. Additionally, we discuss the importance of transparent reporting of the results and provide caveats for researchers in the field to promote the wide usage of Bayesian PGMMs.
@@ -51,11 +68,11 @@ publications:
     date: '2024'
     url: https://www.tandfonline.com/journals/hsem20
   authors:
-  - name: Heo, I.
+  - name: Ihnwhi Heo
     url: http://ihnwhiheo.github.io/
-  - name: Jia, F.
+  - name: Fan Jia
     url: https://sites.google.com/view/fjiaquant
-  - name: Depaoli, S.
+  - name: Sarah Depaoli
     url: http://sarahdepaoli.com/
   paper:
     summary: The Bayesian piecewise growth model (PGM) is a useful class of models for analyzing nonlinear change processes that consist of distinct growth phases. In applications of Bayesian PGMs, it is important to accurately capture growth trajectories and carefully consider knot placements. The presence of missing data is another challenge researchers commonly encounter. To address these issues, one could use model fit and selection indices to detect misspecified Bayesian PGMs, and should give care to the potential impact of missing data on model evaluation. Here we conducted a simulation study to examine the impact of model misspecification and missing data on the performance of Bayesian model fit and selection indices (PPP-value, BCFI, BTLI, BRMSEA, BIC, and DIC), with an additional focus on prior sensitivity. Results indicated that (a) increasing the degree of model misspecification and amount of missing data aggravated the performance of indices in detecting misfit, and (b) different prior specifications had negligible impact on model assessment. We provide practical guidelines for researchers to facilitate effective implementation of Bayesian PGMs.
@@ -69,11 +86,11 @@ publications:
     date: '2023'
     url: https://www.tandfonline.com/journals/hsem20
   authors:
-  - name: Depaoli, S.
+  - name: Sarah Depaoli
     url: http://sarahdepaoli.com/
-  - name: Jia, F.
+  - name: Fan Jia
     url: https://sites.google.com/view/fjiaquant
-  - name: Heo, I.
+  - name: Ihnwhi Heo
     url: http://ihnwhiheo.github.io/
   paper:
     summary: Bayesian estimation has become increasingly more popular with piecewise growth models because it can aid in accurately modeling nonlinear change over time. Recently, new Bayesian approximate fit indices (BRMSEA, BCFI, and BTLI) have been introduced as tools for detecting model (mis)fit. We compare these indices to the posterior predictive p-value (PPP), and also examine the Bayesian information criterion (BIC) and the deviance information criterion (DIC), to identify optimal methods for detecting model misspecification in piecewise growth models. Findings indicated that the Bayesian approximate fit indices are not as reliable as the PPP for detecting misspecification. However, these indices appear to be viable model selection tools rather than measures of fit. We conclude with recommendations regarding when researchers should be using each of the indices in practice.
@@ -87,11 +104,11 @@ publications:
     date: '2023'
     url: https://www.springer.com/journal/11336
   authors:
-  - name: Heo, I.
+  - name: Ihnwhi Heo
     url: http://ihnwhiheo.github.io/
-  - name: Jia, F.
+  - name: Fan Jia
     url: https://sites.google.com/view/fjiaquant
-  - name: Depaoli, S.
+  - name: Sarah Depaoli
     url: http://sarahdepaoli.com/
   paper:
     summary: "The importance of longitudinal research to the social and behavioral sciences is difficult to overstate. A large body of research implements longitudinal designs and analyzes dynamic, repeated measures data to answer a broad range of research questions surrounding growth or change over time. A key decision involved in longitudinal research is the choice of appropriate statistical models. Christian Geiser’s new book—Longitudinal Structural Equation Modeling with Mplus: A Latent State-Trait Perspective—focuses on the implementation of longitudinal statistical models with latent variables and their application in Mplus. The book specifically introduces and discusses longitudinal structural equation models in the context of latent state-trait (LST) theory. By couching LST theory into a longitudinal structural equation modeling framework, this book describes how researchers can reflect the change of individual states or traits under situational influences. Such a feature makes the book a distinctive resource that stands out in comparison with other longitudinal modeling books."
@@ -105,15 +122,15 @@ publications:
     date: '2023'
     url: https://journals.sagepub.com/home/APM
   authors:
-  - name: Liu, R.
+  - name: Ren Liu
     url: https://sites.google.com/view/renliu/
-  - name: Heo, I.
+  - name: Ihnwhi Heo
     url: http://ihnwhiheo.github.io/
-  - name: Liu, H.
+  - name: Haiyan Liu
     url: https://sites.google.com/view/ucmhaiyanliu
-  - name: Shi, D.
+  - name: Dexin Shi
     url: https://scholar.google.com/citations?user=wx8JYQoAAAAJ&hl=en&oi=ao
-  - name: Jiang, Z.
+  - name: Zhehan Jiang
     url: https://scholar.google.com/citations?user=7wMF9NAAAAAJ&hl=en&oi=sra
   paper:
     summary: Diagnostic classification models (DCMs) have been used to classify examinees into groups based on their possession status of a set of latent traits. In addition to traditional item-based scoring approaches, examinees may be scored based on their completion of a series of small and similar tasks. Those scores are usually considered as count variables. To model count scores, this study proposes a new class of DCMs that uses the negative binomial distribution at its core. We explained the proposed model framework and demonstrated its use through an operational example. Simulation studies were conducted to evaluate the performance of the proposed model and compare it with the Poisson-based DCM.
