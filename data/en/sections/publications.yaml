@@ -25,7 +25,7 @@ buttons:
 
 # your publications
 publications:
-- title: Contributed discussion of Sparse Bayesian factor analysis when the number of factors is unknown
+- title: Contributed discussion
   publishedIn:
     name: "Bayesian Analysis"
     date: 'in press'
