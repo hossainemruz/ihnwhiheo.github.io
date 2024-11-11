@@ -25,25 +25,23 @@ buttons:
 
 # your publications
 publications:
-- title: "Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology"
+- title: Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown"
   publishedIn:
-    name: "Journal of School Psychology"
-    date: '2024'
-    url: https://www.sciencedirect.com/journal/journal-of-school-psychology
+    name: "Bayesian Analysis"
+    date: 'in press'
+    url: https://projecteuclid.org/journals/bayesian-analysis
   authors:
   - name: Ihnwhi Heo
     url: http://ihnwhiheo.github.io/
-  - name: Sarah Depaoli
-    url: http://sarahdepaoli.com/
-  - name: Fan Jia
-    url: https://sites.google.com/view/fjiaquant
-  - name: Haiyan Liu
-    url: https://sites.google.com/view/ucmhaiyanliu
+  - name: Julius Pfadt
+    url: https://juliuspfadt.github.io/
+  - name: Eric-Jan Wagenmakers
+    url: https://www.ejwagenmakers.com/
   paper:
     summary: Bayesian piecewise growth mixture models (PGMMs) are a powerful statistical tool based on the Bayesian framework for modeling nonlinear, phasic developmental trajectories of heterogeneous subpopulations over time. Although Bayesian PGMMs can benefit school psychology research, their empirical applications within the field remain limited. This article introduces Bayesian PGMMs, addresses three key methodological considerations (i.e., class separation, class enumeration, and prior sensitivity), and provides practical guidance for their implementation. By analyzing a dataset from the Early Childhood Longitudinal Study-Kindergarten Cohort, we illustrate the application of Bayesian PGMMs to model piecewise growth trajectories of mathematics achievement across latent classes. We underscore the importance of considering both statistical criteria and substantive theories when making decisions in analytic procedures. Additionally, we discuss the importance of transparent reporting of the results and provide caveats for researchers in the field to promote the wide usage of Bayesian PGMMs.
-    url: "files/papers/Heo2024_Bayesian.pdf"
-  categories: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Mixture Modeling"]
-  tags: ["Bayesian Inference", "Structural Equation Modeling", "Longitudinal Data Analysis", "Mixture Modeling"]
+    url: "https://www.doi.org/10.1214/24-BA1423"
+  categories: ["Bayesian Inference", "Structural Equation Modeling", "Mixture Modeling"]
+  tags: ["Bayesian Inference", "Structural Equation Modeling", "Mixture Modeling"]
 
 - title: "Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology"
   publishedIn:
