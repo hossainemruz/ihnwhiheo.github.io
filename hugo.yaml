@@ -64,6 +64,10 @@ params:
       enable: false
     toc:
       enable: true
+    theme:
+      light: true
+      dark: false
+      defaultTheme: light
 
     # Enable Analytics
     analytics:
