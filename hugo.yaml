@@ -67,7 +67,6 @@ params:
     theme:
       light: true
       dark: false
-      defaultTheme: light
 
     # Enable Analytics
     analytics:
